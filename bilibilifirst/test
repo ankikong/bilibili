@@ -1,0 +1,18 @@
+http://api.bilibili.cn/feedback/post?aid=19234670&mid=23207406&msg=aaaa&appkey=84956560bc028eb7
+获取部分房间信息：http://live.bilibili.com/bili/getRoomInfo/房间CID
+获取直播源地址：https://api.live.bilibili.com/api/playurl?platform=h5&cid=房间CID
+# 回复
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Connection:keep-alive
+Content-Length:114
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:fts=1509709625; buvid3=26421748-7FA8-4108-966F-5728E8B41FB41982infoc; UM_distinctid=15f81b4ca17e9-0fb7d8d64e62a6-c303767-1fa400-15f81b4ca18294; rpdid=iwiqmmoqmidoswlmwlxiw; pgv_pvi=8088246272; pgv_si=s4351379456; _cnt_pm=0; _cnt_notify=0; finger=edc6ecda; DedeUserID=23207406; DedeUserID__ckMd5=d8f03070e37650e8; SESSDATA=342df4e4%2C1519219816%2Cac49ab39; bili_jct=15e8a41c6c2037c056a8de51cddd4afe; im_notify_type_23207406=0; LIVE_BUVID=49b131422c0259c76ce63f335353f112; LIVE_BUVID__ckMd5=14719b40e61d873c; sid=ka8bt5ie; purl_token=bilibili_1517991165; _dfcaptcha=3c74cd43ee2dde873f59e1589cac85a0
+Host:api.bilibili.com
+Origin:https://www.bilibili.com
+Referer:https://www.bilibili.com/video/av19260227/?spm_id_from=333.334.bili_bangumi.65
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+
+oid=19260227&type=1&message=(%E2%8C%92%E2%96%BD%E2%8C%92)&plat=1&jsonp=jsonp&csrf=15e8a41c6c2037c056a8de51cddd4afe
